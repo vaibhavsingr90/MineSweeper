@@ -1,0 +1,15 @@
+D:\NewMineGame\MineSweeperNew\MineSweeperNew\bin\Debug\net8.0\MineSweeperNew.exe
+D:\NewMineGame\MineSweeperNew\MineSweeperNew\obj\Debug\net8.0\MineSweeperNew.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewMineGame\MineSweeperNew\MineSweeperNew\obj\Debug\net8.0\MineSweeperNew.AssemblyInfoInputs.cache
+D:\NewMineGame\MineSweeperNew\MineSweeperNew\obj\Debug\net8.0\MineSweeperNew.AssemblyInfo.cs
+D:\NewMineGame\MineSweeperNew\MineSweeperNew\obj\Debug\net8.0\MineSweeperNew.csproj.CoreCompileInputs.cache
+D:\NewMineGame\MineSweeperNew\MineSweeperNew\obj\Debug\net8.0\MineSweeperNew.dll
+D:\NewMineGame\MineSweeperNew\MineSweeperNew\obj\Debug\net8.0\refint\MineSweeperNew.dll
+D:\NewMineGame\MineSweeperNew\MineSweeperNew\obj\Debug\net8.0\MineSweeperNew.pdb
+D:\NewMineGame\MineSweeperNew\MineSweeperNew\bin\Debug\net8.0\MineSweeperNew.deps.json
+D:\NewMineGame\MineSweeperNew\MineSweeperNew\bin\Debug\net8.0\MineSweeperNew.runtimeconfig.json
+D:\NewMineGame\MineSweeperNew\MineSweeperNew\bin\Debug\net8.0\MineSweeperNew.dll
+D:\NewMineGame\MineSweeperNew\MineSweeperNew\bin\Debug\net8.0\MineSweeperNew.pdb
+D:\NewMineGame\MineSweeperNew\MineSweeperNew\obj\Debug\net8.0\MineSweeperNew.genruntimeconfig.cache
+D:\NewMineGame\MineSweeperNew\MineSweeperNew\obj\Debug\net8.0\ref\MineSweeperNew.dll
+D:\NewMineGame\MineSweeperNew\MineSweeperNew\obj\Debug\net8.0\MineSweeperNew.sourcelink.json
